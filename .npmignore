@@ -1,0 +1,8 @@
+.babelrc
+.nyc_output
+coverage
+coveralls.yml
+tests
+dist/test
+src
+tmp
